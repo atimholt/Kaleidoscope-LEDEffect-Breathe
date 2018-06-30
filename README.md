@@ -29,13 +29,19 @@ void setup() {
 
 ## Plugin properties
 
-The plugin provides the `LEDBreatheEffect` object, which has a single property:
+The plugin provides the `LEDBreatheEffect` object, which has two properties:
 
 ### `.hue`
 
 > The hue of the breathe effect.
 >
 > Defaults to 170.
+
+### `.saturation`
+
+> The saturation of the breathe effect.
+>
+> Defaults to 255.
 
 ## Dependencies
 
